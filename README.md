@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines=Full-Stack+Developer;Coding+Enthusiast;Tech+Explorer;Always+Learning+New+Things!">
 </p>
-<div align="center">
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/4ab66984-bbdb-4874-8e23-8883c27a6a8b/BhnhJERQ8d.json" background="#FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
-</div>
 ---
 
 ### 🛠️ Tech Stack
