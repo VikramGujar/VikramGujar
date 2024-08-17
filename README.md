@@ -26,6 +26,12 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikramGujar&layout=compact)
+![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikramGujar&show_icons=true&theme=radical)
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=VikramGujar&theme=dark&hide_border=true)
+</div>
+
+
 
 
 ### ✨ About Me
