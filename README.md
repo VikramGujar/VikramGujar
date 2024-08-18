@@ -46,7 +46,7 @@ I'm a passionate Full-Stack Developer with a love for coding, problem-solving, a
 
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+  
 
 ---
 
