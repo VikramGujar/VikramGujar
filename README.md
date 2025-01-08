@@ -94,4 +94,4 @@ Explore more on my [GitHub Repositories](https://github.com/VikramGujar).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-gujar-063614206/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vikram_gujar_vg/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231E1E2C.svg?style=flat&logo=firefox&logoColor=white)](https://vikramgujar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231E1E2C.svg?style=flat&logo=firefox&logoColor=white)](https://vikram-gujar.netlify.app/)
