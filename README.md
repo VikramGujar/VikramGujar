@@ -67,7 +67,7 @@ I'm a passionate Full-Stack Developer with a love for coding, problem-solving, a
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=VikramGujar&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src= "https://streak-stats.demolab.com/?user=VikramGujar&theme=dark&hide_border=true" alt="GitHub Streak"> 
 </div>
 
 ---
